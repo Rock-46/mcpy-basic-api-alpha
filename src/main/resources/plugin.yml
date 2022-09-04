@@ -1,0 +1,5 @@
+name: Getblockdatanbt_paper
+version: '${project.version}'
+main: me.rockfs.getblockdatanbt.Getblockdatanbt
+authors: [ rockfs ]
+description: 1.12.2 only
