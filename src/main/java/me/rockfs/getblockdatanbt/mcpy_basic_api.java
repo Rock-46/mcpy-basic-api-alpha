@@ -10,8 +10,8 @@ import org.bukkit.plugin.java.JavaPlugin;
 import java.util.Iterator;
 import java.util.logging.Logger;
 
-public final class Getblockdatanbt extends JavaPlugin {
-    public Getblockdatanbt plugin = this;
+public final class mcpy_basic_api extends JavaPlugin {
+    public mcpy_basic_api plugin = this;
     public Logger logger = this.getLogger(); //获取信息发送接口
     public boolean isRunning = false;   //运行状态指示器
     Thread thread;  //线程接口

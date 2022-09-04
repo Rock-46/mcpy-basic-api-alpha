@@ -1,8 +1,6 @@
 package me.rockfs.getblockdatanbt.OnEvent;
 
 import me.rockfs.getblockdatanbt.EventCacheQueue.EventCacheDeque;
-import me.rockfs.getblockdatanbt.Getblockdatanbt;
-import org.bukkit.entity.Player;
 import org.bukkit.event.EventHandler;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.AsyncPlayerChatEvent;
